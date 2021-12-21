@@ -1,0 +1,34 @@
+#heading{
+    font-size: 28px;
+    color: whitesmoke;
+    margin-top: 0px;
+    font-family: 'Itim', cursive;
+}
+#note{
+    font-size: 20px;
+    color: whitesmoke;}
+body{
+   background-color:#E2E8DD;
+    text-align: center;
+}
+#result, #accuracy{
+font-size: 18px;
+font-family: 'Cinzel', serif;
+}
+.footer{
+    font-size: 18px;
+    font-family: cursive;
+    background-color:azure;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-shadow: 5px 4px 5px rgb(40, 38, 38);
+}
+.header_div{
+    background-color:#95A3A4;
+    font-family: monospace;
+}
+#start{
+    font-family: 'IM Fell English SC', serif;
+
+}
